@@ -28,6 +28,15 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ---
 
+### 💼 Internship Experience – Supporting Change Initiatives
+
+🔹 **PETRONAS Group Tax – Capability Development (Intern)**
+- Contributed to internal change initiatives through the design of digital learning experiences (e-modules and learning journeys)
+- Supported enterprise-wide talent and capability programs to upskill tax professionals and embed new ways of working
+- Collaborated across departments to align learning content with strategic goals and stakeholder expectations
+
+🧠 *This experience sparked my interest in how people, processes, and data come together to drive change. It deepened my understanding of change enablement, communication, and learning design — all of which now shape my approach to data storytelling and transformation analytics.*
+
 ## 📚 Certifications
 - ✅ Microsoft Certified: Power BI Data Analyst Associate
 
