@@ -1,49 +1,45 @@
-# 👋 Hi, I'm Ameerah
+# Hi, I'm Ameerah
 
-I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics and a certified Microsoft Power BI Data Analyst. My passion lies in uncovering insights through data storytelling, building intuitive dashboards, and leveraging statistical models to support decision-making.
-
-## 🧠 What I Do
-- 🛠 Data Analysis & Visualization
-- 📊 Dashboard Development (Power BI, Excel, Python)
-- 📈 Time Series & Statistical Modeling
-- 🔍 Data Cleaning, Wrangling, and Exploration
-
-## 💼 Featured Projects (Portfolio Masterplan)
-
-| Tool | Project | Description |
-|------|---------|-------------|
-| `SQL` | ⚾ **MLB Analysis** | Exploratory queries & visual breakdown of Major League Baseball statistics |
-| `R` | 📺 **YouTube Trends Analysis** | Visual and statistical exploration of video trends using R |
-| `Power BI` | 🕵️ **Crime Analysis (Group Project)** | Interactive dashboard with crime insights — download & screenshots included |
-| `Python` | 🎵 **Spotify Streaming Analysis** | Data analysis complete; dashboard/visual storytelling in progress |
-| `Excel` | 🛒 **Superstore Sales Analysis** | Ongoing project; future dashboard plans or possible VBA enhancements |
-| `Python` | 📉 **CPI Forecasting + Regression** | ARIMA + Backward Stepwise Regression for Consumer Price Index modeling |
-
-## 🔬 Practice Repositories (Coming Soon)
-- SQL practice queries & use cases
-- Excel crime/cpi analysis breakdowns
-- R and Excel integrations
-
-> 📌 **Note:** For `.pbix` and `.xlsx` files, only screenshots and download links will be provided due to GitHub limitations.
+I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics. My work focuses on data storytelling, dashboard development, and applying statistical methods to real-world problems. I’m especially interested in how people, data, and processes interact to drive meaningful change in organizations.
 
 ---
 
-### 💼 Internship Experience – Supporting Change Initiatives
+## Areas of Focus
 
-🔹 **PETRONAS Group Tax – Capability Development (Intern)**
-- Contributed to internal change initiatives through the design of digital learning experiences (e-modules and learning journeys)
-- Supported enterprise-wide talent and capability programs to upskill tax professionals and embed new ways of working
-- Collaborated across departments to align learning content with strategic goals and stakeholder expectations
-
-🧠 *This experience sparked my interest in how people, processes, and data come together to drive change. It deepened my understanding of change enablement, communication, and learning design — all of which now shape my approach to data storytelling and transformation analytics.*
-
-## 📚 Certifications
-- ✅ Microsoft Certified: Power BI Data Analyst Associate
-
-## 🌱 Currently Learning
-- Advanced dashboarding & storytelling
-- Business-focused machine learning applications
+- Data analysis and visualization  
+- Dashboard development (Power BI, Excel, Python)  
+- Statistical and time series modeling  
+- Advanced SQL (CTEs, subqueries, window functions)  
+- Data cleaning and transformation  
 
 ---
 
-📫 Feel free to explore my repositories or connect for collaboration!
+## Featured Projects
+
+| Project | Tool(s) | Status | Key Techniques |
+|--------|---------|--------|----------------|
+| MLB Analysis | SQL | Completed | CTEs, subqueries, window functions |
+| Global YouTube Statistics | R | Completed | Bootstrap regression, descriptive & inferential analysis |
+| Spotify Streaming Analysis | Python | Ongoing | EDA complete, regression/prediction planned |
+| Superstore Sales Analysis | Excel, Power BI | Ongoing | Excel 365 functions, derived metrics, Power BI integration |
+| CPI Forecasting & Regression | Python | Completed | ARIMA, backward stepwise regression |
+
+---
+
+## Internship Experience
+
+**PETRONAS Group Tax – Capability Development (Intern)**  
+- Designed digital learning modules for capability programs  
+- Supported change enablement and talent development initiatives  
+- Collaborated across teams to align content with business strategy  
+
+This role sparked my interest in transformation and shaped how I approach analytics in support of change.
+
+---
+
+## Currently Exploring
+
+- Machine learning for business applications  
+- Dashboard storytelling for decision support  
+
+Feel free to explore my repositories or connect for collaboration.
