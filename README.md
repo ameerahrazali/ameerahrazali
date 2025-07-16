@@ -28,7 +28,7 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## Internship Experience
 
-**PETRONAS Group Tax – Capability Development (Intern)**  
+**PETRONAS – Group Tax, Capability Development (Intern)**  
 - Designed digital learning modules for capability programs  
 - Supported change enablement and talent development initiatives  
 - Collaborated across teams to align content with business strategy  
