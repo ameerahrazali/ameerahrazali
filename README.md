@@ -26,7 +26,7 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ---
 
-## Internship Experience
+## Experience
 
 **PETRONAS – Group Tax, Capability Development (Intern)**  
 - Designed digital learning modules for capability programs  
