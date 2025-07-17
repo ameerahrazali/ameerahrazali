@@ -20,7 +20,7 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 | MLB Analysis | SQL | Completed | CTEs, subqueries, window functions |
 | Global YouTube Statistics | R | Completed | Bootstrap regression, descriptive & inferential analysis |
 | Spotify Streaming Analysis | Python | Ongoing | EDA complete, regression/prediction planned |
-| Superstore Sales Analysis | Excel, Power BI | Ongoing | Excel 365 functions, derived metrics, Power BI integration |
+| Superstore Sales Analysis | Excel Power BI | Ongoing | Excel 365 functions, derived metrics, Power BI integration |
 | CPI Forecasting & Regression | Python | Completed | ARIMA, backward stepwise regression |
 
 ---
@@ -30,4 +30,12 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 - Machine learning for business applications  
 - Dashboard storytelling for decision support  
 
-Feel free to explore my repositories or connect for collaboration.
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameerahrazali&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerahrazali&layout=compact&theme=github_dark" width="48%" />
+</p>
+
