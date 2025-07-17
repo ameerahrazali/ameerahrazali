@@ -38,4 +38,9 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameerahrazali&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerahrazali&layout=compact&theme=github_dark" width="48%" />
+</p>
 
+---
