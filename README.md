@@ -19,13 +19,15 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## Featured Projects
 
-| Project | Tool(s) | Status | Key Techniques |
-|--------|---------|--------|----------------|
-| [MLB Analysis](https://github.com/ameerahrazali/mlb-analysis) | `SQL` | Completed | `CTEs`, `subqueries`, `window functions` |
-| [Global YouTube Statistics](https://github.com/ameerahrazali/global-youtube-statistics) | `R` | Completed | Bootstrap regression, descriptive & inferential analysis |
-| [Spotify Streaming Analysis](https://github.com/ameerahrazali/spotify-streams) | `Python` | Ongoing | EDA complete, regression/prediction planned |
-| [Superstore Sales Analysis](https://github.com/ameerahrazali/superstore-analysis) | `Excel`, `Power BI` | Ongoing | Excel 365 functions, derived metrics, Power BI integration |
-| [CPI Forecasting & Regression](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast) | `Python` | Completed | `ARIMA`, backward stepwise regression |
+| Project | Tool(s) | Key Techniques |
+|--------|---------|----------------|
+| [MLB Analysis](https://github.com/ameerahrazali/mlb-analysis) | `SQL` | `CTEs`, `subqueries`, `window functions` |
+| [Global YouTube Statistics](https://github.com/ameerahrazali/global-youtube-statistics) | `R` | Bootstrap regression, descriptive & inferential analysis |
+| [Spotify Streaming Analysis](https://github.com/ameerahrazali/spotify-streams) | `Python` | EDA, classification, ROC analysis |
+| [Superstore Sales Analysis](https://github.com/ameerahrazali/superstore-analysis) | `Excel`, `Power BI` | Excel 365 functions, derived metrics, Power BI integration |
+| [CPI Forecasting & Regression](https://github.com/ameerahrazali/malaysia-cpi-fnab-forecast) | `Python` | `ARIMA`, backward stepwise regression |
+| [Reddit Sentiment Analysis](https://github.com/ameerahrazali/wednesday-offs-sentiment) | `Python`, `NLTK` | VADER sentiment analysis, text preprocessing, sentiment scoring |
+| [Boston Public Safety Dashboard](https://github.com/ameerahrazali/boston-public-safety) | `Power BI`, `Excel` | Interactive visuals, spatial mapping, temporal analysis |
 
 ---
 
@@ -42,4 +44,3 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
   <img src="https://github-readme-stats.vercel.app/api?username=ameerahrazali&show_icons=true&theme=github_dark&cache_seconds=3600" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerahrazali&layout=compact&theme=github_dark&cache_seconds=3600" width="48%" />
 </p>
-
